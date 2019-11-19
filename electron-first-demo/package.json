@@ -1,0 +1,17 @@
+{
+  "name": "first-electron",
+  "version": "1.0.0",
+  "description": "test-demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "rty",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.1"
+  }
+}
